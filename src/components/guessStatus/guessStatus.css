@@ -1,0 +1,13 @@
+.guessStatusContainer{
+  background-color: #cc324b;
+  height: 80px;
+}
+
+.guessStatusText{
+  margin:0px;
+  padding-top: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  color:white;
+  text-align: center;
+}

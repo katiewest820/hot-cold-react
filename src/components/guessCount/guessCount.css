@@ -1,0 +1,12 @@
+.guessHistory{
+  background-color: #1a4e95;
+  color:white;
+  border-radius: 3px;
+  width: fit-content;
+  margin:auto;
+}
+
+.guessHistory p{
+  padding: 5px;
+  margin:0;
+}

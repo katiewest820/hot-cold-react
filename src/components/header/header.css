@@ -1,0 +1,23 @@
+.title{
+  font-size: 50px;
+  text-align: center;
+  padding: 6% 0% 2% 0%;
+  font-weight: bold;
+  color:white;
+}
+
+.helpLink{
+  font-size: 20px;
+  color:white;
+  position: absolute;
+  left: 2%;
+  top: 3%;
+}
+
+.newGameLink{
+  font-size: 20px;
+  color:white;
+  position: absolute;
+  right: 2%;
+  top: 3%;
+}

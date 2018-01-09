@@ -1,0 +1,53 @@
+.userInputBox{
+  background-color: #5767a0;
+  height: fit-content;
+  width:100%;
+  text-align: center;
+}
+
+.userGuessInput, .userGuessButton{
+  height: 60px;
+  width: 80%;
+  margin:auto;
+  margin-top: 30px;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color:white;
+  background-color: #1f253d;
+  border:solid black 1px;
+  border-radius: 4px;
+}
+.userGuessInput{
+  background-color: #656e94;
+}
+
+.userGuessButton{
+  margin-bottom: 30px;
+}
+
+.numOfGuesses{
+  margin: 0px 0px 30px 0px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.currentNumber{
+  color: #f39c12;
+  font-size: 40px;
+  margin: 4px;
+}
+
+input::placeholder{
+  color:white;
+}
+
+.guessCountDiv{
+  background-color: #11a8ab;
+  padding: 30px;
+}
+
+
+
+
+
