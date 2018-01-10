@@ -1,11 +1,11 @@
 import React from 'react';
 import './guessStatus.css';
 
-export default function GuessStatus(){
-
+export default function GuessStatus(props){
+console.log(props.currGuess)
   return(
      <div className="guessStatusContainer">
-       <h2 className="guessStatusText">Make your Guess!</h2>
+       <h2 className="guessStatusText">{props.currGuess}</h2>
      </div>
   );
 };

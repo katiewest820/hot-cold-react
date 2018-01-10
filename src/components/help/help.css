@@ -1,0 +1,38 @@
+.helpPage{
+  height: 97%;
+  width:97%;
+  margin: .8em;
+  padding-top: 10%;
+ background-color: #e74c3c;
+ text-align: center;
+ color:white;
+}
+
+.instructionsContainer{
+  width: 40%;
+  margin:auto;
+  border: solid 1px #d44637;
+}
+
+h1{
+  margin:0;
+  background-color: #d44637;
+  font-size: 40px;
+  padding:20px;
+}
+
+p{
+  margin:30px;
+}
+
+button{
+  padding: 10px 20px;
+  border: none;
+  background-color: black;
+  color:grey;
+  margin-bottom: 20px;
+}
+
+button:hover{
+  cursor: pointer;
+}

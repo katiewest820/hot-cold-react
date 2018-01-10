@@ -1,0 +1,12 @@
+.numOfGuesses{
+  margin: 0px 0px 30px 0px;
+  display: inline-block;
+  text-align: center;
+  font-size: 30px;
+}
+
+.currentNumber{
+  color: #f39c12;
+  font-size: 40px;
+  margin: 4px;
+}
